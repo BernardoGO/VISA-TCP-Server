@@ -1,0 +1,18 @@
+C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\DotNET4.0\SimpleReadWrite\cs\bin\Debug\SimpleReadWrite.exe
+C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\DotNET4.0\SimpleReadWrite\cs\bin\Debug\SimpleReadWrite.pdb
+C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\DotNET4.0\SimpleReadWrite\cs\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\DotNET4.0\SimpleReadWrite\cs\obj\Debug\SimpleReadWrite.2010.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\DotNET4.0\SimpleReadWrite\cs\obj\Debug\NationalInstruments.Examples.SimpleReadWrite.MainForm.resources
+C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\DotNET4.0\SimpleReadWrite\cs\obj\Debug\NationalInstruments.Examples.SimpleReadWrite.SelectResource.resources
+C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\DotNET4.0\SimpleReadWrite\cs\obj\Debug\SimpleReadWrite.2010.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\DotNET4.0\SimpleReadWrite\cs\obj\Debug\SimpleReadWrite.exe
+C:\Users\Public\Documents\National Instruments\NI-VISA\Examples\DotNET4.0\SimpleReadWrite\cs\obj\Debug\SimpleReadWrite.pdb
+C:\Users\Bernardo\Documents\lab\cs\bin\Debug\eLab.exe
+C:\Users\Bernardo\Documents\lab\cs\bin\Debug\eLab.pdb
+C:\Users\Bernardo\Documents\lab\cs\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\Bernardo\Documents\lab\cs\obj\Debug\SimpleReadWrite.2010.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo\Documents\lab\cs\obj\Debug\NationalInstruments.Examples.SimpleReadWrite.MainForm.resources
+C:\Users\Bernardo\Documents\lab\cs\obj\Debug\NationalInstruments.Examples.SimpleReadWrite.SelectResource.resources
+C:\Users\Bernardo\Documents\lab\cs\obj\Debug\SimpleReadWrite.2010.csproj.GenerateResource.Cache
+C:\Users\Bernardo\Documents\lab\cs\obj\Debug\eLab.exe
+C:\Users\Bernardo\Documents\lab\cs\obj\Debug\eLab.pdb

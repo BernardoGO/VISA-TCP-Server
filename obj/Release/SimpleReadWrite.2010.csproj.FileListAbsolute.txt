@@ -1,0 +1,7 @@
+C:\Users\Bernardo\Documents\lab\cs\bin\Release\eLab.exe
+C:\Users\Bernardo\Documents\lab\cs\bin\Release\NationalInstruments.Common.Native.dll
+C:\Users\Bernardo\Documents\lab\cs\obj\Release\SimpleReadWrite.2010.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo\Documents\lab\cs\obj\Release\NationalInstruments.Examples.SimpleReadWrite.MainForm.resources
+C:\Users\Bernardo\Documents\lab\cs\obj\Release\NationalInstruments.Examples.SimpleReadWrite.SelectResource.resources
+C:\Users\Bernardo\Documents\lab\cs\obj\Release\SimpleReadWrite.2010.csproj.GenerateResource.Cache
+C:\Users\Bernardo\Documents\lab\cs\obj\Release\eLab.exe
